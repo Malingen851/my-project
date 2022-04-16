@@ -8,7 +8,5 @@ int main()
     for (p_alpha = 'a', p_alpha_1 = 'A'; p_alpha <= 'z' && p_alpha_1 <= 'Z'; ++p_alpha, ++p_alpha_1){
         cout << p_alpha << "\t" << "\t" << "\t" << p_alpha + i << "\t" << "\t" << p_alpha_1 << "\t" << "\t" << "\t" << p_alpha_1 + j << endl;
     }
-    system ("pause");
-    system ("cls");
     return 0;
 }
