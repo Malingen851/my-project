@@ -1,1 +1,1 @@
-# my-project
+C++ Exercise 1
